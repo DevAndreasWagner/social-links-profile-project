@@ -47,6 +47,11 @@ body {
 }
 
 
+
+.info {
+    padding: 1rem 0;
+}
+
 span {
     display: flex;
     flex-direction: column;
@@ -55,6 +60,13 @@ span {
     font-size: 14px;
     font-family: Inter;
 }
+
+
+img {
+    width: 6rem;
+    border-radius: 50%;
+}
+
 
 
 .button-section {
