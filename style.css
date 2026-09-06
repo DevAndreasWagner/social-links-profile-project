@@ -46,7 +46,11 @@ body {
     transition: 0.35s;
 }
 
-
+.card-container:hover {
+    
+    box-shadow: 0rem 0rem 2rem 0.1rem hsl(75, 94%, 57%);
+    
+}
 
 .info {
     padding: 1rem 0;
@@ -93,5 +97,7 @@ img {
         border-radius: 0.5rem;
         transition: 0.35s;
     }
-
+    a:hover {
+        width: 90%;
+    }
 }
